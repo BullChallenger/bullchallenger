@@ -77,7 +77,7 @@
       </div>
     </div>
   </foreignObject>
-</svgg
+</svg>
 <!--
 **BullChallenger/bullchallenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
