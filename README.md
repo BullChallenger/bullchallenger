@@ -1,7 +1,7 @@
 <div align="center">
 <br><br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=990011&height=150&section=header&text=Hi%20there,%20I'm%20Seungbin&fontSize=60&fontColor=FCF6F5&desc=Good%20day%20to%20Coding&descSize=30&descAlignY=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=080A0D&height=150&section=header&text=Hi%20there,%20I'm%20Seungbin&fontSize=60&fontColor=26A682&desc=Good%20day%20to%20Coding&descSize=30&descAlignY=20" />
 
 <br>
 <div class="stack">
@@ -46,8 +46,8 @@
 <!-- BullChallenger's profile -->
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=BullChallenger&show_icons=true&theme=material-palenight&hide_border=true&bg_color=FCF6F5&icon_color=990011&text_color=990011&title_color=990011&count_private=true" width=49.2% />
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BullChallenger&layout=compact&theme=buefy&hide_border=true&bg_color=FCF6F5&text_color=990011&title_color=990011" width=43.2% /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=BullChallenger&show_icons=true&theme=material-palenight&hide_border=true&bg_color=080A0D&icon_color=589EA6&text_color=26A682&title_color=26A682&count_private=true" width=49.2% />
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BullChallenger&layout=compact&theme=buefy&hide_border=true&bg_color=080A0D&text_color=26A682&title_color=26A682" width=43.2% /></a>
 
 <br><br>
 
